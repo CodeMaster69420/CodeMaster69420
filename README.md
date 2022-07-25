@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CodeMaster69420
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Robotics
-- 💞️ I’m looking to collaborate with Ys0f
+- 🌱 I’m currently learning Robot
 - 📫 How to reach me Never Ever
 
 <!---
